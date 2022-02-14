@@ -365,18 +365,18 @@ $ npm start
     3. handle submit form
     4. edit parse url to get query string
     5. update product list api for search by name
- 54. Add Advanced Search Filter
+54. Add Advanced Search Filter
     1. filter by category
     2. filter by price range
     3. filter by average rating
- 55. Complete Advanced Search
+55. Complete Advanced Search
     1. filter by price
     2. filter by rating
     3. sort by price, rating, ...
- 56. Rate and Review Products
+56. Rate and Review Products
     1. rate products
     2. create actions and reducers
- 57. Choose Address On Google Map
+57. Choose Address On Google Map
     1. create google map credentials
     2. update .env file with Google Api Key
     3. create api to send google api to frontend
@@ -386,30 +386,30 @@ $ npm start
     7. install @react-google-maps/api
     8. use it in shipping screen
     9. apply map to the checkout screen
- 58. BugFix: Running Locally Without Issue
+58. BugFix: Running Locally Without Issue
      1.  add seller info to data.js
      2.  seed product data with admin info as seller
      3.  fix isSeller and isAdmin on update user
      4.  remove auth from user details
- 59. Implement Pagination
+59. Implement Pagination
      1.  add pagination to product router in backend
      2.  apply page number to actions and reducers in frontend
-     3.  show page numbers in search screen
-  60. Email order receipt by mailgun
+     3.  show page numbers in search screen 
+60. Email order receipt by mailgun
      1.  create mailgun account
      2.  add and verify your domain to mailgun
      3.  install mailgun-js
      4.  set api key in env file
      5.  change pay order in orderRouter
      6.  send email the 
- 61. Create Dashboard Screen
+61. Create Dashboard Screen
      1.  Create chart data in backend
      2.  Build Chart screen
- 62. Implement Live Chat With Customers
+62. Implement Live Chat With Customers
      1.  use socket io to create backend
      2.  create chat box component
      3.  create support screen
- 63. Upgrade To React 17, Router 6, Mongoose 6
+63. Upgrade To React 17, Router 6, Mongoose 6
      1.  Backend
      2.  Uninstall and install all packages
      3.  remove options in mongoose connect
